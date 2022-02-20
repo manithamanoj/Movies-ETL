@@ -9,7 +9,8 @@ Write an ETL Function to Read Three Data Fileswith the help of Python, Pandas, t
 
 •	The wiki_movies_df DataFrame
 
-<img width="1299" alt="Screen Shot 2022-02-19 at 11 16 52 PM" src="https://user-images.githubusercontent.com/72629108/154831130-8259b595-255b-44d7-8ced-9ab2f53d67a3.png">
+<img width="1321" alt="Screen Shot 2022-02-19 at 11 28 03 PM" src="https://user-images.githubusercontent.com/72629108/154831436-0fe1a645-62ac-4b18-94fb-98aa7da924b7.png">
+
 
 •	The kaggle_metadata DataFrame
 <img width="1295" alt="Screen Shot 2022-02-19 at 11 17 14 PM" src="https://user-images.githubusercontent.com/72629108/154831156-ef53be63-79c3-4ead-ae14-e8f14aed0101.png">
